@@ -1,0 +1,163 @@
+/* Définir les couleurs principales */
+:root {
+    --tfa-blue: #6272A4;
+    --tfa-blue-light: #9A9BCC;
+    --tfa-blue-dark: #4F5B7F;
+
+    --tfa-green: #50FA7B;
+    --tfa-green-light: #6BFF9B;
+    --tfa-green-dark: #3D8B59;
+
+    --tfa-pink: #FF79C6;
+    --tfa-pink-light: #FF9BCC;
+    --tfa-pink-dark: #D15C99;
+}
+
+/* Couleurs de texte */
+.text-tfa-blue {
+    color: var(--tfa-blue) !important;
+}
+
+.text-tfa-blue:hover {
+    color: var(--tfa-blue-light) !important;
+}
+
+.text-tfa-green {
+    color: var(--tfa-green) !important;
+}
+
+.text-tfa-green:hover {
+    color: var(--tfa-green-light) !important;
+}
+
+.text-tfa-pink {
+    color: var(--tfa-pink) !important;
+}
+
+.text-tfa-pink:hover {
+    color: var(--tfa-pink-light) !important;
+}
+
+/* Couleurs des boutons */
+.btn-tfa-blue {
+    background-color: var(--tfa-blue) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-blue:hover {
+    background-color: var(--tfa-blue-light) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-blue:active {
+    background-color: var(--tfa-blue-dark) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-green {
+    background-color: var(--tfa-green) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-green:hover {
+    background-color: var(--tfa-green-light) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-green:active {
+    background-color: var(--tfa-green-dark) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-pink {
+    background-color: var(--tfa-pink) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-pink:hover {
+    background-color: var(--tfa-pink-light) !important;
+    color: #fff !important;
+}
+
+.btn-tfa-pink:active {
+    background-color: var(--tfa-pink-dark) !important;
+    color: #fff !important;
+}
+
+/* Arrière-plans */
+.bg-tfa-blue {
+    background-color: var(--tfa-blue) !important;
+}
+
+.bg-tfa-blue:hover {
+    background-color: var(--tfa-blue-light) !important;
+}
+
+.bg-tfa-green {
+    background-color: var(--tfa-green) !important;
+}
+
+.bg-tfa-green:hover {
+    background-color: var(--tfa-green-light) !important;
+}
+
+.bg-tfa-pink {
+    background-color: var(--tfa-pink) !important;
+}
+
+.bg-tfa-pink:hover {
+    background-color: var(--tfa-pink-light) !important;
+}
+
+/* Bordures */
+.border-tfa-blue {
+    border-color: var(--tfa-blue) !important;
+}
+
+.border-tfa-blue:hover {
+    border-color: var(--tfa-blue-light) !important;
+}
+
+.border-tfa-green {
+    border-color: var(--tfa-green) !important;
+}
+
+.border-tfa-green:hover {
+    border-color: var(--tfa-green-light) !important;
+}
+
+.border-tfa-pink {
+    border-color: var(--tfa-pink) !important;
+}
+
+.border-tfa-pink:hover {
+    border-color: var(--tfa-pink-light) !important;
+}
+
+/* Couleurs de survol */
+.hover-tfa-blue {
+    color: var(--tfa-blue) !important;
+}
+
+.hover-tfa-blue:hover {
+    color: var(--tfa-blue-light) !important;
+    background-color: var(--tfa-blue-light) !important;
+}
+
+.hover-tfa-green {
+    color: var(--tfa-green) !important;
+}
+
+.hover-tfa-green:hover {
+    color: var(--tfa-green-light) !important;
+    background-color: var(--tfa-green-light) !important;
+}
+
+.hover-tfa-pink {
+    color: var(--tfa-pink) !important;
+}
+
+.hover-tfa-pink:hover {
+    color: var(--tfa-pink-light) !important;
+    background-color: var(--tfa-pink-light) !important;
+}
