@@ -7,7 +7,7 @@
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6" data-aos="fade-up">
                         <h1 class="page-header-ui-title">Prenez le contrôle total
-                            de vos informations.</h1>
+                            de votre data.</h1>
                         <p class="page-header-ui-text mb-5">
                             <span class="fw-bolder">Vos besoins, nos scrapers, votre data.</span><br> Exploitez vos
                             données avec précision. Obtenez un devis
